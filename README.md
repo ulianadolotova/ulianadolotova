@@ -1,6 +1,6 @@
 ### Hello :)
 
-Here you can find my projects which are the part of my becoming a developer.
+Here you can find my projects.
 
 Quick facts about me as a programmer:
 - currently studyig C++
