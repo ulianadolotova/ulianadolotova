@@ -1,9 +1,14 @@
-### Hello :)
+## Hello! 
 
-Here you can find my projects.
+My name is Uliana, and this page is dedicated to my study and pet projects.
 
-Quick facts about me as a programmer:
-- currently studyig C++
-- develop experience in C
-- mipt student
+### Some additional info about me $\hookrightarrow$
 
+#### Current status
+- MIPT DIHT student
+- C++ development intern at Kaspersky Lab
+
+#### Passionate about
+- Good technical (and not only) literature
+- Participation in projects that require a lot of coding
+- Getting to study new concepts
